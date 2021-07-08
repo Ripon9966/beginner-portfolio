@@ -1,0 +1,42 @@
+
+body{
+    font-family: 'Encode Sans SC', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.left-side{
+    color: skyblue;
+}
+
+
+.heading{
+    height: 400px;
+    background-image: url(images/Group 8425.png);
+    background-size: cover;
+    display: flex;
+}
+.head-section{
+    height:200px ;
+    width: 700%;
+    margin-left: 8%;
+    padding-top: 100px;
+
+}
+.head-section img{
+width: 50%;
+}
+.link-btn{
+    text-decoration: none;
+    padding: 10px 25px;
+    background-image: linear-gradient(red,hotpink);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.heading-two{
+    background-image: url(images/Frame\ 58.png);
+    background-repeat: no-repeat;
+    height: 400px;
+    display: flex;
+}
