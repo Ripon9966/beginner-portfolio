@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Encode Sans SC', sans-serif;
+    height: 100%;
 }
 h1{
     font-size: 40px;
@@ -39,4 +40,24 @@ width: 50%;
     background-repeat: no-repeat;
     height: 400px;
     display: flex;
+}
+.one{
+    height: 20%;
+    width: 20%;
+}
+.two{
+    height: 20%;
+    width: 20%;
+}
+.three{
+    height: 20%;
+    width: 20%;    
+}
+.header-last{
+    display: flex;
+    height: 700px;
+
+}
+.header-last img{
+   width: 50%;
 }
